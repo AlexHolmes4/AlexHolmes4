@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlexHolmes4
-- 👀 I’m interested in Python, .Net, Web Development, Application Development and Programming as a whole
+- 👀 I’m interested in .NET, .NET Core, C#, Python, Web Development, Application Development
 - 🌱 I’m currently learning Python after working as a Business Analayst and finding my love for being in the coding seat (where the magic happens)
 - 💞️ I’m looking to collaborate on projects for a portfolio, as well as employment / work opportunities
 - 📫 How to reach me www.linkedin.com/alexander-george-holmes 
