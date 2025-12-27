@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexHolmes4
 - 👀 I’m interested in .NET, C#, Web Development, Application Development, Integrations, Cloud Computing and AI.
-- 🌱 I graduated University with a First Class Hons in IT & Business then worked as a Business Analyst, later transitioning to a developer (where the magic happens)
+- 🌱 Studied IT & Business at University then worked as a Business Analyst, later transitioning to a developer (where the magic happens)
 - 💞️ I've been working as a developer full time since 2021 and am loving it. 
 - 📫 How to reach me www.linkedin.com/alexander-george-holmes 
 
