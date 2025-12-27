@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlexHolmes4
-- 👀 I’m interested in .NET Core, C#, Python, Web Development, Application Development
-- 🌱 I started off learning Python after working as a Business Analayst and finding my love for being in the coding seat (where the magic happens)
-- 💞️ I've been working as a developer full time for over a year now and am loving it. 
+- 👀 I’m interested in .NET, C#, Web Development, Application Development, Integrations, Cloud Computing and AI.
+- 🌱 I graduated University with a First Class Hons in IT & Business then worked as a Business Analyst, later transitioning to a developer (where the magic happens)
+- 💞️ I've been working as a developer full time since 2021 and am loving it. 
 - 📫 How to reach me www.linkedin.com/alexander-george-holmes 
 
 <!---
